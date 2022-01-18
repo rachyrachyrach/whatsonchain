@@ -15,4 +15,4 @@ Example of balance of Volt.Id wallet
 Script ran to show positive balance of Volt.Id Wallet.
 
 ![browser](docs/images/pythonscript.png)
-Script ran to show "negative" balance of my Moneybutton wallet. 
+Script ran to show "negative" balance of my Moneybutton wallet. Moneybutton has multiple legacy addresses. 
