@@ -5,7 +5,7 @@ WhatsOnChain has a rate limit of 3 requests/second. Line 15 is a loop to keep ch
 [WhatsOnChain Rate Limits](https://developers.whatsonchain.com/#rate-limits)
 [WhatsOnChain Get Balance](https://developers.whatsonchain.com/#get-balance)
 
-![browser](docs/images/moneybutton_wallet.png)
+![browser](https://github.com/rachyrachyrach/whatsonchain-balance/blob/master/docs/images/moneybutton_wallet.png)
 Example of balance in a Moneybutton Wallet
 
 ![browser](docs/images/voltwallet_wallet.png)
